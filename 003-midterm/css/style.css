@@ -1,0 +1,144 @@
+
+
+body{
+	padding: 0 ;
+	margin: 0;
+
+}
+
+#main_bg {
+	/*background-color: #CAE8A2;*/
+	width: 100%;
+	height:800px;
+	/*z-index: -1;*/
+	padding: 0;
+	/*opacity: 0.7;*/
+}
+
+
+section{
+	padding: 0;
+	border:0;
+	margin: 0;
+}
+
+#title{
+	z-index: 0;
+	padding: 20%;
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'Lily Script One', cursive;
+	font-size: 3em;
+
+}
+
+#main_icons{
+	position: absolute;
+	width:100%;
+	padding: 0 auto;
+	margin-top: -15%;
+	text-align: center;
+}
+
+#main_icons img{
+	width: 15%;
+	border: 20px;
+	padding: 0.5%;
+	border-radius: 150px;
+    margin: 10px;
+    /*-webkit-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.5);*/
+    box-shadow: 7px 7px 10px 3px rgba(0, 0, 0, 0.7);
+    background-color: rgba(255, 255, 255, 0.4);
+
+}
+
+/*========================== buttons ============================*/
+.buttons{
+	position: fixed;
+	margin-top: -100px;
+	top: 50%;
+}
+
+#bt01{
+	background-color:  #F8ECD4;
+	opacity:0.8;
+	width: 50px;
+	height: 50px;
+}
+
+#bt02{
+	background-color: #D4CFA5;
+	opacity:0.7;
+	width: 50px;
+	height: 50px;
+}
+
+#bt03{
+	background-color: #A29D7F;
+	opacity:0.7;
+	width: 50px;
+	height: 50px;
+}
+
+#bt04{
+	background-color: #230B00;
+	opacity:0.7;
+	width: 50px;
+	height: 50px;
+}
+
+
+
+/* ========================= Rooibos ===========================*/
+
+.rooibos{
+	width: 100%;	
+}
+
+/*rooibos background image*/
+
+.rooibos img{
+	width: 100%;
+	/*z-index: -1;*/
+}
+
+/*=========================== yuzu =============================*/
+
+.yuzu{
+	width: 100%;
+}
+
+.yuzu img{
+	width: 100%;
+	/*z-index: -1;*/
+}
+
+
+/*=========================== lemon =============================*/
+
+.lemon{
+	width: 100%;
+}
+
+.lemon img{
+	width: 100%;
+	/*z-index: -1;*/
+}
+
+
+/*=========================== quince =============================*/
+
+.quince{
+	width: 100%;
+}
+
+.quince img{
+	width: 100%;
+	/*z-index: -1;*/
+}
+
+
+/*body {
+	background-color: #CDF482;
+
+}*/
